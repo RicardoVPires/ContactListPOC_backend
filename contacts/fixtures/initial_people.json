@@ -1,0 +1,142 @@
+[
+  {
+    "model": "contacts.person",
+    "pk": 1,
+    "fields": {
+      "first_name": "Ana",
+      "last_name": "Souza",
+      "email": "ana.souza@email.com",
+      "phone": "(11) 91234-5678",
+      "street": "Rua das Flores, 123",
+      "city": "São Paulo",
+      "state": "SP",
+      "zip_code": "01310-100"
+    }
+  },
+  {
+    "model": "contacts.person",
+    "pk": 2,
+    "fields": {
+      "first_name": "Carlos",
+      "last_name": "Oliveira",
+      "email": "carlos.oliveira@email.com",
+      "phone": "(21) 99876-5432",
+      "street": "Av. Atlântica, 456",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "zip_code": "22010-000"
+    }
+  },
+  {
+    "model": "contacts.person",
+    "pk": 3,
+    "fields": {
+      "first_name": "Fernanda",
+      "last_name": "Lima",
+      "email": "fernanda.lima@email.com",
+      "phone": "(31) 98765-4321",
+      "street": "Rua da Bahia, 789",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "zip_code": "30160-011"
+    }
+  },
+  {
+    "model": "contacts.person",
+    "pk": 4,
+    "fields": {
+      "first_name": "Rafael",
+      "last_name": "Pereira",
+      "email": "rafael.pereira@email.com",
+      "phone": "(41) 97654-3210",
+      "street": "Rua XV de Novembro, 321",
+      "city": "Curitiba",
+      "state": "PR",
+      "zip_code": "80020-310"
+    }
+  },
+  {
+    "model": "contacts.person",
+    "pk": 5,
+    "fields": {
+      "first_name": "Juliana",
+      "last_name": "Costa",
+      "email": "juliana.costa@email.com",
+      "phone": "(51) 96543-2109",
+      "street": "Av. Borges de Medeiros, 654",
+      "city": "Porto Alegre",
+      "state": "RS",
+      "zip_code": "90110-150"
+    }
+  },
+  {
+    "model": "contacts.person",
+    "pk": 6,
+    "fields": {
+      "first_name": "Marcelo",
+      "last_name": "Alves",
+      "email": "marcelo.alves@email.com",
+      "phone": "(71) 95432-1098",
+      "street": "Rua do Carmo, 987",
+      "city": "Salvador",
+      "state": "BA",
+      "zip_code": "40020-280"
+    }
+  },
+  {
+    "model": "contacts.person",
+    "pk": 7,
+    "fields": {
+      "first_name": "Patrícia",
+      "last_name": "Ferreira",
+      "email": "patricia.ferreira@email.com",
+      "phone": "(85) 94321-0987",
+      "street": "Av. Beira Mar, 159",
+      "city": "Fortaleza",
+      "state": "CE",
+      "zip_code": "60165-121"
+    }
+  },
+  {
+    "model": "contacts.person",
+    "pk": 8,
+    "fields": {
+      "first_name": "Lucas",
+      "last_name": "Martins",
+      "email": "lucas.martins@email.com",
+      "phone": "(62) 93210-9876",
+      "street": "Rua 44, 258",
+      "city": "Goiânia",
+      "state": "GO",
+      "zip_code": "74025-010"
+    }
+  },
+  {
+    "model": "contacts.person",
+    "pk": 9,
+    "fields": {
+      "first_name": "Camila",
+      "last_name": "Rodrigues",
+      "email": "camila.rodrigues@email.com",
+      "phone": "(92) 92109-8765",
+      "street": "Av. Eduardo Ribeiro, 369",
+      "city": "Manaus",
+      "state": "AM",
+      "zip_code": "69010-001"
+    }
+  },
+  {
+    "model": "contacts.person",
+    "pk": 10,
+    "fields": {
+      "first_name": "Bruno",
+      "last_name": "Nascimento",
+      "email": "bruno.nascimento@email.com",
+      "phone": "(81) 91098-7654",
+      "street": "Rua da Aurora, 741",
+      "city": "Recife",
+      "state": "PE",
+      "zip_code": "50050-000"
+    }
+  }
+]
