@@ -10,7 +10,9 @@
       "street": "Rua das Flores, 123",
       "city": "São Paulo",
       "state": "SP",
-      "zip_code": "01310-100"
+      "zip_code": "01310-100",
+      "country": "Brazil",
+      "date_of_birth": "1990-03-22"
     }
   },
   {
@@ -24,7 +26,9 @@
       "street": "Av. Atlântica, 456",
       "city": "Rio de Janeiro",
       "state": "RJ",
-      "zip_code": "22010-000"
+      "zip_code": "22010-000",
+      "country": "Brazil",
+      "date_of_birth": "1985-07-14"
     }
   },
   {
@@ -38,7 +42,9 @@
       "street": "Rua da Bahia, 789",
       "city": "Belo Horizonte",
       "state": "MG",
-      "zip_code": "30160-011"
+      "zip_code": "30160-011",
+      "country": "Brazil",
+      "date_of_birth": "1993-11-05"
     }
   },
   {
@@ -52,7 +58,9 @@
       "street": "Rua XV de Novembro, 321",
       "city": "Curitiba",
       "state": "PR",
-      "zip_code": "80020-310"
+      "zip_code": "80020-310",
+      "country": "Brazil",
+      "date_of_birth": "1988-01-30"
     }
   },
   {
@@ -66,7 +74,9 @@
       "street": "Av. Borges de Medeiros, 654",
       "city": "Porto Alegre",
       "state": "RS",
-      "zip_code": "90110-150"
+      "zip_code": "90110-150",
+      "country": "Brazil",
+      "date_of_birth": "1995-06-18"
     }
   },
   {
@@ -80,7 +90,9 @@
       "street": "Rua do Carmo, 987",
       "city": "Salvador",
       "state": "BA",
-      "zip_code": "40020-280"
+      "zip_code": "40020-280",
+      "country": "Brazil",
+      "date_of_birth": "1982-09-09"
     }
   },
   {
@@ -94,7 +106,9 @@
       "street": "Av. Beira Mar, 159",
       "city": "Fortaleza",
       "state": "CE",
-      "zip_code": "60165-121"
+      "zip_code": "60165-121",
+      "country": "Brazil",
+      "date_of_birth": "1997-04-25"
     }
   },
   {
@@ -108,7 +122,9 @@
       "street": "Rua 44, 258",
       "city": "Goiânia",
       "state": "GO",
-      "zip_code": "74025-010"
+      "zip_code": "74025-010",
+      "country": "Brazil",
+      "date_of_birth": "1991-12-03"
     }
   },
   {
@@ -122,7 +138,9 @@
       "street": "Av. Eduardo Ribeiro, 369",
       "city": "Manaus",
       "state": "AM",
-      "zip_code": "69010-001"
+      "zip_code": "69010-001",
+      "country": "Brazil",
+      "date_of_birth": "1994-08-17"
     }
   },
   {
@@ -136,7 +154,9 @@
       "street": "Rua da Aurora, 741",
       "city": "Recife",
       "state": "PE",
-      "zip_code": "50050-000"
+      "zip_code": "50050-000",
+      "country": "Brazil",
+      "date_of_birth": "1987-02-11"
     }
   }
 ]
